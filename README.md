@@ -19,3 +19,13 @@ Tenho 15 anos, moro em São José das Palmeiras/pr e sou aluno(a) da disciplina 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80px" /> 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px"/></code>
 
+</br>
+</br>
+<div display="inline-block">
+<p align="left"> Sou aluno do CE São José </p>
+<p align="left"> Estou estudando HTML5, CSS3 E JAVASCRIPT </p>
+
+</br>
+Você pode falar comigo pelo [instagram](https://www.instagram.com/seu_usuario_aqui) ou pelo [twitter](https://twitter.com/seu_usuario_aqui) e pode conhecer meus projetos já desenvolvidos, estão disponíveis aqui nos repositórios.
+
+</br>
